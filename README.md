@@ -129,10 +129,10 @@
   <i>My Socials</i>
 
 <p align="center">
-<a href= "https://yunhanref.com"><img src="./img/document.svg"/></a>
-<a href= "https://www.linkedin.com/in/mehmet-eren-gumus/"><img src="./img/linkedin.svg"/></a>
-<a href= "https://www.instagram.com/yun.han.ref/"><img src="./img/instagram.svg"/></a>
-<a href= "https://discord.com/users/415117701007015946"><img src="./img/discord.svg"/></a>
+<a href= "https://yunhanref.com"><img src="./img/document.svg" width="16" height="16" /></a>
+<a href= "https://www.linkedin.com/in/mehmet-eren-gumus/"><img src="./img/linkedin.svg" width="16" height="16" /></a>
+<a href= "https://www.instagram.com/yun.han.ref/"><img src="./img/instagram.svg" width="16" height="16" /></a>
+<a href= "https://discord.com/users/415117701007015946"><img src="./img/discord.svg" width="16" height="16" /></a>
 </p>
 
 </p>
