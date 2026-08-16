@@ -54,3 +54,76 @@
                                                                                                                  
                             *
 ```                                                                             
+<details>
+  <summary>---More About Me---</summary>
+  <br>
+
+
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+> Tools, languages, and other things that I like to work with.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/pytorch.svg" width="48" height="48" alt="pytorch" /></a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/pandas.svg" width="48" height="48" alt="pandas" /></a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/tensorflow.svg" width="48" height="48" alt="tensorflow" /></a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/rust.svg" width="48" height="48" alt="rust" /></a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/cpp.svg" width="48" height="48" alt="cpp" /></a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/linux.svg" width="48" height="48" alt="linux" /></a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/asm.svg" width="32" height="48" alt="assemby" /></a>
+      <br>Assembly
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/arduino.svg" width="48" height="48" alt="arduino" /></a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/Luau.svg" width="48" height="48" alt="luau" /></a>
+      <br>Luau
+    </td>       
+  </tr>
+</table>
+
+* 📊   Open-source activity and repository highlights:
+
+<p align="center">
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&langs_count=8" alt="yunhanref's top languages" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=yunhanref&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=one_dark_pro" alt="yunhanref's GitHub stats" />
+<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
+</p>
+<p align='center'>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
+</p>
+</details>
+  
+<hr>
+<p align="center">
+  <i>My Socials</i>
+
+<p align="center">
+<a href= "https://yunhanref.com"><img src="https://icons8.com/icon/VKILjMBl2qYa/document"/></a>
+<a href= "https://www.linkedin.com/in/mehmet-eren-gumus/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
+<a href= "https://www.instagram.com/yun.han.ref/"><img src="https://icons8.com/icon/BrU2BBoRXiWq/instagram-logo"/></a>
+<a href= "https://halfrost.com"><img src="https://icons8.com/icon/2mIgusGquJFz/discord"/></a>
+</p>
+
+</p>
