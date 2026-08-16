@@ -59,6 +59,15 @@
   <br>
 
 
+<div align="center">
+  <picture>
+    <source
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60&fontColor=000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60" />
+  </picture>
+</div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
@@ -120,10 +129,10 @@
   <i>My Socials</i>
 
 <p align="center">
-<a href= "https://yunhanref.com"><img src="https://icons8.com/icon/VKILjMBl2qYa/document"/></a>
-<a href= "https://www.linkedin.com/in/mehmet-eren-gumus/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
-<a href= "https://www.instagram.com/yun.han.ref/"><img src="https://icons8.com/icon/BrU2BBoRXiWq/instagram-logo"/></a>
-<a href= "https://halfrost.com"><img src="https://icons8.com/icon/2mIgusGquJFz/discord"/></a>
+<a href= "https://yunhanref.com"><img src="./img/document.svg"/></a>
+<a href= "https://www.linkedin.com/in/mehmet-eren-gumus/"><img src="./img/linkedin.svg"/></a>
+<a href= "https://www.instagram.com/yun.han.ref/"><img src="./img/instagram.svg"/></a>
+<a href= "https://discord.com/users/415117701007015946"><img src="./img/discord.svg"/></a>
 </p>
 
 </p>
