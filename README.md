@@ -115,10 +115,11 @@
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
-<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
+  <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
 </p>
-<p align='center'>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=yunhanref.yunhanref&label=VISITORS&countColor=%23263759" alt="visitor badge"/>
 </p>
 </details>
   
