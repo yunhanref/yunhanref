@@ -115,6 +115,10 @@
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=default" alt="halfrost's GitHub stats" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&langs_count=8&count_private=true" alt="yunhanref's top languages" />
 </p>
 
