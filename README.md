@@ -124,7 +124,6 @@
 <p align="center">
   <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
 </p>
-
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=yunhanref.yunhanref&label=VISITORS&countColor=%23263759" alt="visitor badge"/>
 </p>
