@@ -115,13 +115,11 @@
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=yunhanref&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=one_dark_pro" alt="halfrost's GitHub stats" />
+  <img src="https://github-readme-stats-amber-eight-48.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&langs_count=8&count_private=true" alt="yunhanref's top languages"/>
 </p>
-
 <p align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&langs_count=8&count_private=true&include_all_commits=true&cache_seconds=1800" alt="yunhanref's top languages"/>
+  <img src="https://github-readme-stats-amber-eight-48.vercel.app/api?username=yunhanref&show_icons=true&theme=one_dark_pro&count_private=true" alt="yunhanref's github stats"/>
 </p>
-
 <p align="center">
   <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
 </p>
