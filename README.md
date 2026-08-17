@@ -115,7 +115,7 @@
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
-  <img src="https://github-readme-stats-amber-eight-48.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&count_private=true&langs_count=8&include_forks=true&v=1&cache_seconds=0&langs_count=10" alt="yunhanref's top languages"/>
+  <img src="https://github-readme-stats-amber-eight-48.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&count_private=true&langs_count=10&include_forks=true&cache_seconds=0" alt="yunhanref's top languages"/>
 </p>
 
 <p align="center">
