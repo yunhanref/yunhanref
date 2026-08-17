@@ -115,6 +115,10 @@
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&langs_count=8&hide=html&count_private=true" alt="yunhanref's top languages" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
 </p>
 
