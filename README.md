@@ -2,16 +2,6 @@
   <img align="center" src="/img/banner.png" alt="banner" />
 </p>
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60&fontColor=000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=section&text=%F0%9F%91%8B%20Hi%20there%21&fontSize=60" />
-  </picture>
-</div>
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
