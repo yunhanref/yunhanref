@@ -1,11 +1,11 @@
 <p align="center">
   <img align="center" src="/img/bannerr.png" alt="banner" />
 </p>
-**ML Engineer / Low-Level Software Architect**
- 
- I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect.  
- I combine low-level software with deep engineering to build AI systems.
-
+---
+## ML Engineer / Low-Level Software Architect**
+I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect.  
+I combine low-level software with deep engineering to build AI systems.
+---
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
