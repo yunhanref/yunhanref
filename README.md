@@ -1,3 +1,10 @@
+```
+        *                    [ ML Engineer / Low-Level Software Architect ]                                      
+                                                                                                                 
+     I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect. 
+                   I combine low-level software with deep engineering to build AI systems.      *                
+                                                 
+```                
 <p align="center">
   <img align="center" src="/img/bannerr.png" alt="banner" />
 </p>
@@ -45,7 +52,7 @@
   </tr>
 </table>
 
-* 📊   Open-source activity and repository highlights:
+* Open-source activity and repository highlights:
 
 <p align="center">
   <img src="https://github-readme-stats-amber-eight-48.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&count_private=true&langs_count=10&include_forks=true&cache_seconds=0" alt="yunhanref's top languages"/>
@@ -53,13 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-amber-eight-48.vercel.app/api?username=yunhanref&show_icons=true&theme=one_dark_pro&count_private=true&include_all_commits=true&forks=true&v=1" alt="yunhanref's github stats"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
-</p>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=yunhanref.yunhanref&label=VISITORS&countColor=%23263759" alt="visitor badge"/>
-</p>
 
 <hr>
 <p align="center">
@@ -73,3 +73,5 @@
 </p>
 
 </p>
+
+                  
