@@ -51,13 +51,22 @@ I combine low-level software with deep engineering to build AI systems.
 
 * Open-source activity and repository highlights:
 
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-amber-eight-48.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&count_private=true&langs_count=10&include_forks=true&cache_seconds=0" alt="yunhanref's top languages" alt="Most Used Languages" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-amber-eight-48.vercel.app/api?username=yunhanref&show_icons=true&theme=one_dark_pro&count_private=true&include_all_commits=true&forks=true&v=1" alt="yunhanref's github stats" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p>
   <img src="https://github-readme-stats-amber-eight-48.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=one_dark_pro&count_private=true&langs_count=10&include_forks=true&cache_seconds=0" alt="yunhanref's top languages"/>
 </p>
-
 <p>
   <img src="https://github-readme-stats-amber-eight-48.vercel.app/api?username=yunhanref&show_icons=true&theme=one_dark_pro&count_private=true&include_all_commits=true&forks=true&v=1" alt="yunhanref's github stats"/>
-
 <hr>
 <p align="center">
   <i>My Socials</i>
