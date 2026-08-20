@@ -1,13 +1,11 @@
-```
-                                   [ ML Engineer / Low-Level Software Architect ]                                      
-                                                                                                                 
-     I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect. 
-                   I combine low-level software with deep engineering to build AI systems.                     
-                                                 
-```                
 <p align="center">
   <img align="center" src="/img/bannerr.png" alt="banner" />
 </p>
+**2. Blockquote Formatı**
+> ### **[ ML Engineer / Low-Level Software Architect ]**
+> 
+> I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect.  
+> I combine low-level software with deep engineering to build AI systems.
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
