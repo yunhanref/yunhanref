@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="/img/bannerr.png" alt="banner" />
+  <img align="center" src="/img/banner.png" alt="banner" />
 </p>
 
 ## ML Engineer / Low-Level Software Architect
