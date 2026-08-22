@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" src="/img/banner.png" alt="banner" />
-</p>
-
 ## ML Engineer / Low-Level Software Architect
 I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect.  
 I combine low-level software with deep engineering to build AI systems.
