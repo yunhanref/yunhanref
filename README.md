@@ -57,7 +57,7 @@ I combine low-level software with deep engineering to build AI systems.
     </td>
   </tr>
 </table>
-
+---
 <p align="center">
   <i>My Socials</i>
 
