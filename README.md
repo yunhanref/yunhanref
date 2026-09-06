@@ -2,8 +2,8 @@
 I'm an AI & ML engineering student on the ML track with a parallel career as a low-level systems architect.  
 I combine low-level software with deep engineering to build AI systems.
 
-## My Website
-My Website: [yunhanref](www.yunhanref.com)
+## My Portfolio Website
+My Website: [yunhanref.com](www.yunhanref.com)
 
 <h2 align="left" id="macropower-tech">Technologies</h2>
 > Tools, languages, and other things that I like to work with.
