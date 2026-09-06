@@ -13,12 +13,6 @@ My Website: [yunhanref.com](https://yunhanref.com)
       <a href="#yunhanref"><img src="./img/pytorch.svg" width="48" height="48" alt="pytorch" /></a>
       <br>PyTorch
     </td>
-    <!--  
-    <td align="center" width="96">
-      <a href="#yunhanref"><img src="./img/pandas.svg" width="48" height="48" alt="pandas" /></a>
-      <br>Pandas
-    </td>
-    !-->
     <td align="center" width="96">
       <a href="#yunhanref"><img src="./img/tensorflow.svg" width="48" height="48" alt="tensorflow" /></a>
       <br>TensorFlow
@@ -40,14 +34,14 @@ My Website: [yunhanref.com](https://yunhanref.com)
       <a href="#yunhanref"><img src="./img/asm.svg" width="32" height="48" alt="assemby" /></a>
       <br>Assembly
     </td>
-    !-->
-    <!-- 
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/pandas.svg" width="48" height="48" alt="pandas" /></a>
+      <br>Pandas
+    </td>
     <td align="center" width="96">
       <a href="#yunhanref"><img src="./img/arduino.svg" width="48" height="48" alt="arduino" /></a>
       <br>Arduino
     </td>
-    !-->
-    <!-- 
     <td align="center" width="96">
       <a href="#yunhanref"><img src="./img/Luau.svg" width="48" height="48" alt="luau" /></a>
       <br>Luau
