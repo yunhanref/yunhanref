@@ -3,7 +3,7 @@ I'm an AI & ML engineering student on the ML track with a parallel career as a l
 I combine low-level software with deep engineering to build AI systems.
 
 <h2 align="left">---My Website---</h2>
-> My Website: yunhanref.com
+> My Website:  [yunhanref](yunhanref.com)
 
 <h2 align="left" id="macropower-tech">Technologies</h2>
 > Tools, languages, and other things that I like to work with.
