@@ -35,20 +35,24 @@ My Website: [yunhanref.com](https://yunhanref.com)
       <a href="#yunhanref"><img src="./img/linux.svg" width="48" height="48" alt="linux" /></a>
       <br>Linux
     </td>
+    <!-- 
     <td align="center" width="96">
       <a href="#yunhanref"><img src="./img/asm.svg" width="32" height="48" alt="assemby" /></a>
       <br>Assembly
     </td>
+    !-->
     <!-- 
     <td align="center" width="96">
       <a href="#yunhanref"><img src="./img/arduino.svg" width="48" height="48" alt="arduino" /></a>
       <br>Arduino
     </td>
     !-->
+    <!-- 
     <td align="center" width="96">
       <a href="#yunhanref"><img src="./img/Luau.svg" width="48" height="48" alt="luau" /></a>
       <br>Luau
-    </td>       
+    </td>
+    !-->
   </tr>
 </table>
 
