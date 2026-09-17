@@ -4,7 +4,7 @@ I combine low-level software with deep engineering to build AI systems.
 
 ## My Portfolio Website
 My Website: [yunhanref.com](https://yunhanref.com)
-<img src="./img/site_gif.gif" alt="site gif"/>
+<img src="./img/sitegif.gif" alt="site gif"/>
 
 <h2 align="left" id="macropower-tech">Technologies</h2>
 > Tools, languages, and other things that I like to work with.
